@@ -20,7 +20,7 @@ In this repository, you'll find examples ranging from basic Python syntax and pr
 - **Monte Carlo Method**: Another approach to estimate pi, using the Monte Carlo method. This technique leverages randomness and probability to calculate pi based on random sampling inside a unit circle.
 
 ### 4. **Random Walk Simulation**
-- **2D Random Walk**: A simple simulation of a 1D random walk, visualized in the terminal. 
+- **Random Walk**: A simple simulation of a 1D random walk, visualized in the terminal. 
 
 ## How to Run
 
