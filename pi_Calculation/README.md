@@ -6,7 +6,7 @@
 This folder contains Python scripts that demonstrate two methods for estimating the value of π (pi): the **Leibniz formula** and the **Monte Carlo method**. Both approaches provide an approximation of π, showcasing different mathematical techniques for calculating this fundamental constant.
 
 ### Task 1: Leibniz Formula for Pi
-The first task implements the Leibniz formula, which approximates π by summing an infinite series:
+The first task implements the Leibniz formula, which approximates π by summing an infinite series (π = 4 × (1 - 1/3 + 1/5 - 1/7 + ...)):
 
 <div align="center">
     <img src="https://latex.codecogs.com/svg.latex?\pi%20=%204%20\times%20\left(1%20-%20\frac{1}{3}%20+%20\frac{1}{5}%20-%20\frac{1}{7}%20+%20\ldots\right)" title="π = 4 × (1 - 1/3 + 1/5 - 1/7 + ...)" style="background-color: white; padding: 5px;" />
