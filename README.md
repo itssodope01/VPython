@@ -1,7 +1,11 @@
 
 # VPython: 3D Programming with Python
 
-Welcome to the **VPython** repository, where you can explore various Python programming concepts, from basic Python to more advanced topics like list comprehensions, pi estimation, and 2D random walk simulations. This repository is designed to help beginners and intermediate Python developers get started with essential concepts through simple, illustrative examples.
+Welcome to the **VPython** repository! This project is designed for exploring **VPython**, a powerful tool for creating 3D visualizations using Python. The examples in this repository will help you get started with basic Python concepts and gradually introduce more advanced VPython concepts as new content is added. Whether you're a beginner looking to learn programming or an experienced coder wanting to explore VPython's 3D capabilities, this repository offers practical examples to guide you.
+
+## What to Expect
+
+In this repository, you'll find examples ranging from basic Python syntax and problem-solving techniques to more complex VPython 3D simulations. New code examples and concepts will be added weekly, expanding your understanding of both Python and VPython.
 
 ## Contents
 
