@@ -9,7 +9,7 @@ This folder contains Python scripts that demonstrate two methods for estimating 
 The first task implements the Leibniz formula, which approximates π by summing an infinite series:
 
 <div align="center">
-    <img src="https://latex.codecogs.com/svg.latex?\pi%20=%204%20\times%20\left(1%20-%20\frac{1}{3}%20+%20\frac{1}{5}%20-%20\frac{1}{7}%20+%20\ldots\right)" title="\pi = 4 \times \left(1 - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \ldots\right)" />
+    <img src="https://latex.codecogs.com/svg.latex?\pi%20=%204%20\times%20\left(1%20-%20\frac{1}{3}%20+%20\frac{1}{5}%20-%20\frac{1}{7}%20+%20\ldots\right)" title="π = 4 × (1 - 1/3 + 1/5 - 1/7 + ...)" style="background-color: white; padding: 5px;" />
 </div>
 
 - **Function:** `leibniz_pi(num_terms)`
