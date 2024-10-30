@@ -22,6 +22,9 @@ In this repository, you'll find examples ranging from basic Python syntax and pr
 ### 4. **Random Walk Simulation**
 - **Random Walk**: A simple simulation of a 1D random walk, visualized in the terminal. 
 
+### 5. **Volume Estimation of Hyperspheres**
+Estimate the volume of hyperspheres up to 20 dimensions using the Monte Carlo method, NumPy and only one loop in the entire program.
+
 ## How to Run
 
 1. Clone the repository:
